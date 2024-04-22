@@ -1,3 +1,4 @@
+![github-header-image](https://github.com/Ajaj583/Ajaj583/assets/158480555/6f90b52a-cc3d-428b-8bc8-235a7e8f44de)
 
 <h1 align="center">Hey 👋, I'm Ajaj Khan</h1>
 <h3 align="center">I'm currently a student pursuing my Bachelor of Computer Application from Netaji Subhas University, jamshedpur 🧑‍🎓. I'm passionate about Data Analyst I've started exploring the field of computer vision as well ✨ and hope to contribute to that field as well. When I'm not developing and coding, you can find me watching Netflix, Sports or listening to music. Memes are something that are appreciated very much 😂.</h3>
