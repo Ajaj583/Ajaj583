@@ -1,23 +1,12 @@
-### Hi there 👋
 
-<!--
-**Ajaj583/Ajaj583** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hey 👋, I'm Ajaj Khan</h1>
 <h3 align="center">I'm currently a student pursuing my Bachelor of Computer Application from Netaji Subhas University, jamshedpur 🧑‍🎓. I'm passionate about Data Analyst I've started exploring the field of computer vision as well ✨ and hope to contribute to that field as well. When I'm not developing and coding, you can find me watching Netflix, Sports or listening to music. Memes are something that are appreciated very much 😂.</h3>
 
-<img align="right" alt="coding"width="400" src="![image](https://github.com/Ajaj583/Ajaj583/assets/158480555/cbd4f81f-160b-4566-a40a-2c2dfe674d81)
+
+![image](https://github.com/Ajaj583/Ajaj583/assets/158480555/de7dc111-83f1-481f-bae6-6041940e611a)
+![image](https://github.com/Ajaj583/Ajaj583/assets/158480555/65083afd-c6b8-47df-8cc9-d8f2e48dd757)
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaj583&label=Profile%20views&color=0e75b6&style=flat" alt="ajaj583" /> </p>
@@ -48,3 +37,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaj583&show_icons=true&locale=en" alt="ajaj583" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaj583&" alt="ajaj583" /></p>
+
